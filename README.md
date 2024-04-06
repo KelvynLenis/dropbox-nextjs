@@ -6,6 +6,7 @@ Basic clone of the UI of Dropbox using Next
 - Clerk
 - ShadcnUI
 - Zustand
+- Firebase
 
 ## Preview
 
