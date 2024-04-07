@@ -10,7 +10,9 @@ export default function Home() {
           <h1 className="text-5xl font-bold">
             Welcome to Dropbox
             <br />
-            Store everything for you and your business needs. All in one place.
+            Store everything for you and your business needs. 
+            <br />
+            All in one place.
           </h1>
 
           <p>
