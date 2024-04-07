@@ -75,7 +75,7 @@ function TableWrapper({ skeletonFiles }: { skeletonFiles: FileType[] }) {
         onClick={() => setSort(sort === 'desc' ? 'asc' : 'desc')}
         className="ml-auto w-fit"
       >
-        Sort by {sort === 'desc' ? 'Oldest' : 'Newest'}  
+        Sort by {sort === 'desc' ? 'Newest' : 'Oldest'}  
       </Button>
 
       <DataTable columns={columns} data={initialFiles} />
